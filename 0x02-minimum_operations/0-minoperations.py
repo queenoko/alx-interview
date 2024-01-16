@@ -15,6 +15,7 @@ def primeFactorization(x):
 
     return array
 
+
 def minOperations(n):
     """This will calculates the fewest number of operations needed
     to result in exactly n H characters in the file"""
