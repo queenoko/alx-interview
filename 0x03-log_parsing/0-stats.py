@@ -84,5 +84,5 @@ def run():
         print_statistics(total_file_size, status_codes_stats)
 
 
-                                                                                                                                                                                                                                                if __name__ == '__main__':
+        if __name__ == '__main__':
                                                                                                                                                                                                                                                     run()
