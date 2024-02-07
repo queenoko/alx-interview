@@ -5,7 +5,7 @@ import sys
 
 
 solutions = []
-"""The list of possible solutions to N queens problem.
+"""The list of my possible solutions to N queens problem.
 """
 n = 0
 """The size of the chessboard...
@@ -16,7 +16,7 @@ pos = None
 
 
 def get_input():
-    """This Retrieves and validates this program's argument.
+    """Thiswill  Retrieves and validates this program's argument.
 
     Returns:
         int: The size of the chessboard.
